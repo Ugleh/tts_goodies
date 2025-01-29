@@ -1,13 +1,13 @@
 {
-    ["Minesweeper"] = {"img_file": "minesweeper.jpg"},
-    ["Nonogram"] =  {"img_file": "nonogram.jpg"},
-    ["Word Ladder"] =  {"img_file": "wordladder.png"},
-    ["Chimp Test"] =  {"img_file": "numbersgame.png"},
-    ["Sudoku"] =  {"img_file": "sudoku.jpg"},
-    ["Mastermind"] =  {"img_file": "mastermind.png"},
-    ["Connections"] =  {"img_file": "connections.jpg"},
-    ["Countdown Maths"] =  {"img_file": "countdown.jpg"},
-    ["Jeopardy Trivia"] =  {"img_file": "trivia.jpg"},
-    ["MemeBoard"] =  {"img_file": "memeboard.jpg"},
-    ["Wordle"] =  {"img_file": "wordle.jpg"}
+    ["Minesweeper"] = {img_file = "minesweeper.jpg"},
+    ["Nonogram"] =  {img_file = "nonogram.jpg"},
+    ["Word Ladder"] =  {img_file = "wordladder.png"},
+    ["Chimp Test"] =  {img_file = "numbersgame.png"},
+    ["Sudoku"] =  {img_file = "sudoku.jpg"},
+    ["Mastermind"] =  {img_file = "mastermind.png"},
+    ["Connections"] =  {img_file = "connections.jpg"},
+    ["Countdown Maths"] =  {img_file = "countdown.jpg"},
+    ["Jeopardy Trivia"] =  {img_file = "trivia.jpg"},
+    ["MemeBoard"] =  {img_file = "memeboard.jpg"},
+    ["Wordle"] =  {img_file = "wordle.jpg"}
 }
